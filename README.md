@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junaid-0-0-7/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/junaid-0-0-7/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/junaid-0-0-7/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/junaid-0-0-7/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/junaid-0-0-7/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/junaid-0-0-7/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
